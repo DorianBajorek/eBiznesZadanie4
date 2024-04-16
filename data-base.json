@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 1500
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 800
+    },
+    {
+        "id": 3,
+        "name": "Klawiatura",
+        "price": 100
+    },
+    {
+        "id": 4,
+        "name": "Myszka",
+        "price": 50
+    },
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 1500
+    },
+    {
+        "id": 1,
+        "name": "Laptoppp",
+        "price": 1500
+    }
+]
